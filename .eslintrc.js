@@ -35,8 +35,11 @@ module.exports = {
       },
     ],
     'no-undef': 'off',
-    'import/namespace': 'off',
     'jsx-a11y/anchor-is-valid': 'off',
     'react/react-in-jsx-scope': 'off',
+    '@typescript-eslint/no-empty-interface': 'off',
+    'import/named': 'off',
+    'import/no-named-as-default': 'off',
+    'import/namespace': 'off',
   },
 };
